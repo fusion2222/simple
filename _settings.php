@@ -18,3 +18,8 @@ const SIMPLE_PARTNER_LOGOS__LOGO_TAXONOMIES = [
 	SIMPLE_PARTNER_LOGOS__TAXONOMY_PARTNERS,
 	SIMPLE_PARTNER_LOGOS__TAXONOMY_MEDIA_PARTNERS
 ];
+
+const SIMPLE_PARTNER_LOGOS__LINK_FIELD_ID = 'simple_partner_logos__link';
+const SIMPLE_PARTNER_LOGOS__LINK_METABOX_ID = 'simple_partner_logos__link_metabox';
+const SIMPLE_PARTNER_LOGOS__TYPE_NONCE_FIELD_ID = 'simple_partner_logos__nonce';
+const SIMPLE_PARTNER_LOGOS__TYPE_NONCE_PROCESS = 'simple_partner_logos__nonce_process';
